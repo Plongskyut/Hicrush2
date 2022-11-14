@@ -1,0 +1,2 @@
+# Hicrush2
+Bot
